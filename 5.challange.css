@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.bigbox .pp{
+    display: flex;
+    
+    border-radius: 16px;
+    width: 105px;
+    height: 120px;
+}
+
+.box1{
+    width: 950px;
+    size: 950px;
+}
+
+.box1 .img{
+    display: flex;
+    
+}
+
+.p1{
+    width: 300px;
+    height: 300px;
+    border-radius: 20px;
+}
+
+.p2{
+    width: 600px;
+    height: 300px;
+    border-radius: 20px;
+}
+
+.p3{
+    width: 600px;
+    height: 300px;
+    border-radius: 20px;
+}
+
+.p4{
+    width: 300px;
+    height: 600px;
+    border-radius: 20px;
+}
+
+.p5{
+    width: 300px;
+    height: 300px;
+    border-radius: 20px
+}
+
+.p6{
+    width: 300px;
+    height: 300px;
+    border-radius: 20px
+}
